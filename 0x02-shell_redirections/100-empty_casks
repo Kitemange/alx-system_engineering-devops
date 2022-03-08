@@ -1,2 +1,0 @@
-#![D[C/bin/bash
-find -empty | rev |cut -d'/' -fi |rev
