@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# This script displays "Best School 10 times"
+# This script displays "Best School 9 times"
+# on the 9th line displays "Hi"
 x=1
 while [ $x -le 10 ]
 do
